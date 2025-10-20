@@ -423,7 +423,6 @@
     }
   ],
   "triggers": [
-    "evm_large_transfer_usdt_slack",
-    "evm_large_transfer_usdt_webhook"
+    "evm_large_transfer_usdt_slack"
   ]
 }
